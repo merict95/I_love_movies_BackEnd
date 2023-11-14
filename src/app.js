@@ -11,7 +11,7 @@ const cors = require("cors");
 
 // CORS options to only allow your front-end domain
 const corsOptions = {
-  origin: 'https://we-love-movies-front-end-q9no.onrender.com',
+  origin: 'https://i-love-moveies-frontend.onrender.com',
   optionsSuccessStatus: 200
 };
 
